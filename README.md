@@ -1,8 +1,11 @@
-#Kirby869初めての改造
+# Kirby869初めてのTJAplayer3改造
+おはこんばんにちは。Kirby869です！！
 
+これから頑張っていきます。
 
+ここから下はAioilightさんの文です。
 
-# TJAPlayer3
+## TJAPlayer3
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
 
 この改造者[@aioilight](https://twitter.com/aioilight)はプログラミングが大変苦手なので、スパゲッティコードと化していると思います...すみません
