@@ -3,6 +3,8 @@
 
 これから頑張っていきたいと思います
 
+乞うご期待を!!!!!
+
 参考にしたサイトは[こちら](https://nullsan-of-tjap3.hatenablog.com/)
 
 ## 実装状況
@@ -69,5 +71,5 @@ Fork元より引用。
 > 
 > また、このプログラムはFROM氏の「DTXMania」を元に製作しています。
 
-## Specialthanks
+# Specialthanks
 Aioilightさん
