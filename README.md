@@ -9,6 +9,9 @@
 
 ## バージョン
 
+## 日記
+2021/7/22 START
+
 # ここから下はAioilightさんの文です
 
 ## TJAPlayer3
