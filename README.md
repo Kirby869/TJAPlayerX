@@ -1,9 +1,11 @@
 # Kirby869初めてのTJAplayer3改造
 おはこんばんにちは。Kirby869です！！
 
-これから頑張っていきます。
+これから頑張っていきたいと思います
 
-ここから下はAioilightさんの文です。
+参考にしたサイトは[こちら](https://nullsan-of-tjap3.hatenablog.com/)
+
+ここから下はAioilightさんの文です
 
 ## TJAPlayer3
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
