@@ -5,7 +5,11 @@
 
 参考にしたサイトは[こちら](https://nullsan-of-tjap3.hatenablog.com/)
 
-ここから下はAioilightさんの文です
+## 実装状況
+
+## バージョン
+
+# ここから下はAioilightさんの文です
 
 ## TJAPlayer3
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
@@ -61,3 +65,6 @@ Fork元より引用。
 > 「実行時フォルダ/Licenses」に収録しています。
 > 
 > また、このプログラムはFROM氏の「DTXMania」を元に製作しています。
+
+## Specialthanks
+Aioilightさん
