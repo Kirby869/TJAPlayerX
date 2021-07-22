@@ -1,3 +1,7 @@
+#Kirby869初めての改造
+
+
+
 # TJAPlayer3
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
 
