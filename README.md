@@ -1,4 +1,4 @@
-# Kirby869初めてのTJAplayer3改造
+# Kirby869初めてのTJAplayer3改造—TJAplayerX
 おはこんばんにちは。Kirby869です！！
 
 これから頑張っていきたいと思います
