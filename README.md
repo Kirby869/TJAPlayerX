@@ -8,9 +8,10 @@
 参考にしたサイトは[こちら](https://nullsan-of-tjap3.hatenablog.com/)
 
 ## 実装状況
-
+実装したいもの
+- [x] 創作譜面のフォルダ化
 ## バージョン
-
+Ver1.00 : まだTJAplayer3のまま
 ## 日記
 2021/7/22 START
 
